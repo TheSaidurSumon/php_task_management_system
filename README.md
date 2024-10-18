@@ -25,7 +25,7 @@ This **Task Management System** is a web application designed to simplify task t
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd task-management-system
+   cd php_task_management_system
    ```
 3. **Set up the database:**
    - Import the provided SQL file in the `database` folder to your MySQL server.
