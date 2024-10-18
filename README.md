@@ -21,7 +21,7 @@ This **Task Management System** is a web application designed to simplify task t
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your_username/task-management-system.git
+   git clone https://github.com/TheSaidurSumon/php_task_management_system.git
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -33,7 +33,7 @@ This **Task Management System** is a web application designed to simplify task t
 
 4. **Run the project:**
    - Place the project folder on your server (e.g., XAMPP or LAMP).
-   - Open your browser and navigate to the project URL (e.g., `http://localhost/task-management-system`).
+   - Open your browser and navigate to the project URL (e.g., `http://localhost/php_task_management_system`).
 
 ## Usage
 
@@ -58,8 +58,4 @@ Contributions are welcome! Feel free to submit a pull request or open an issue i
 
 This project is licensed under the MIT License.
 
----
 
-For the image sections (`![ ]`), replace the `image_url_here` with actual URLs or paths to images stored in your repository, such as a screenshot of the dashboard and task creation modal.
-
-This layout ensures your GitHub README is informative and visually engaging!
