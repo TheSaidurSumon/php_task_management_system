@@ -6,7 +6,7 @@ Here’s a more detailed **README** for your GitHub project, including an image 
 
 This **Task Management System** is a web application designed to simplify task tracking and project management. It allows users to assign tasks, manage priorities, and monitor progress efficiently. The system supports task filtering, pagination, and dynamic status updates. It is built using **PHP**, **MySQL**, and integrated with **Tailwind CSS** for a clean and responsive UI.
 
-![images/screenshot 1.png]
+![Dashboard] (images/screenshot 1.png)
 
 ## Features:
 - **User Authentication:** Secure login system for users to access tasks.
@@ -44,11 +44,11 @@ This **Task Management System** is a web application designed to simplify task t
   
 ## Screenshots
 
-![Dashboard](dashboard_image_url_here)
-*Dashboard showing tasks and priority overview*
+![Dashboard] (images/screenshot 2.png)
+*Dashboard showing add tasks and priority overview*
 
-![Create Task Modal](create_task_modal_image_url_here)
-*Create task modal for adding new tasks*
+![Dashboard] (images/screenshot 3.png)
+*Create task modal for edit  tasks*
 
 ## Contributing
 
